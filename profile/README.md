@@ -22,7 +22,9 @@ At OptimiSE Academy, we bridge the gap between theory and application by offerin
 
 🔹 Community contributions – Collaborative projects and discussions.
 
-🔍 Looking for a specific course repository? Browse our repositories or check out the latest courses below!
+#### 👩‍🎓 Already a member? 
+
+Request access to the organisation [here](https://tally.so/r/3jzLJQ) and access private repositories for the courses you're enrolled in. 
 
 ⸻
 
